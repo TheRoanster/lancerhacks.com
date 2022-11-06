@@ -3,13 +3,7 @@ import styles from './Sponsors.module.css'
 export function Sponsors() {
   
   let sponsors = [
-    ['brand_makers','https://www.brandmakers.com'],
-    ['aops','https://artofproblemsolving.com '],
-    ['wolfram', 'https://www.wolfram.com'],
-    ['veritas','https://drive.google.com/drive/u/0/folders/1teSDbIvwUmXvWEW5XZFquP4iP2MWKsvt'],
-    ['sticker_giant', 'https://www.stickergiant.com/event-coupons?utm_source=website&utm_medium=event'],
-    ['leading_learners','https://linktr.ee/leadinglearners'],
-    ['broadcom', 'http://broadcomfoundation.org/codingwithcommitment/']
+    ['wolfram', 'https://www.wolfram.com']
   ]
 
   return (
@@ -18,6 +12,8 @@ export function Sponsors() {
       {
         sponsors.map((sponsor)=> <a key={sponsor[0]} href={sponsor[1]}><img className={styles.sponsor} alt={sponsor[0]} src={`/sponsors/${sponsor[0]}.png`}/></a>)
       }
+
+      <a className={styles.sponsor_prospectus} href="https://docs.google.com/document/d/1WjlYQLC2-Ryv-3X7zEn0kZ4c-ZbXSRQcxSvl-Ap9RZM/edit?usp=sharing">Sponsorship Prospectus</a>
     </section>
   )
 }

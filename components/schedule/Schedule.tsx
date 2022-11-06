@@ -33,7 +33,7 @@ const EVENTS = [
   },
   {
     id: createEventId(),
-    title: 'Hacking',
+    title: 'TBD',
     start: dayStr + 'T08:30:00',
     end: dayStr + 'T12:00:00',
     color: 'white',
@@ -51,7 +51,7 @@ const EVENTS = [
   },
   {
     id: createEventId(),
-    title: 'Hacking',
+    title: 'TBD',
     start: dayStr + 'T12:30:00',
     end: dayStr + 'T17:30:00',
     color: 'white',
@@ -60,7 +60,7 @@ const EVENTS = [
   },
   {
     id: createEventId(),
-    title: 'Dinner',
+    title: 'TBD',
     start: dayStr + 'T17:30:00',
     end: dayStr + 'T18:00:00',
     color: 'white',
@@ -69,7 +69,7 @@ const EVENTS = [
   },
   {
     id: createEventId(),
-    title: 'Final Code Rush',
+    title: 'TBD',
     start: dayStr + 'T18:00:00',
     end: dayStr + 'T19:15:00',
     color: 'white',
@@ -78,7 +78,7 @@ const EVENTS = [
   },
   {
     id: createEventId(),
-    title: 'Code Freeze',
+    title: 'TBD',
     start: dayStr + 'T19:15:00',
     end: dayStr + 'T19:30:00',
     color: 'white',
@@ -87,7 +87,7 @@ const EVENTS = [
   },
   {
     id: createEventId(),
-    title: 'Presenting',
+    title: 'TBD',
     start: dayStr + 'T19:30:00',
     end: dayStr + 'T20:30:00',
     color: 'white',
@@ -96,7 +96,7 @@ const EVENTS = [
   },
   {
     id: createEventId(),
-    title: 'Judging',
+    title: 'TBD',
     start: dayStr + 'T20:30:00',
     end: dayStr + 'T21:15:00',
     color: 'white',
@@ -114,7 +114,7 @@ const EVENTS = [
   },
   {
     id: createEventId(),
-    title: 'Speaker: Paula Golden & Prasanthi Sathyaprakash - Broadcom',
+    title: 'TBD',
     start: dayStr + 'T08:20:00',
     end: dayStr + 'T08:45:00',
     color: '#caffa1',
@@ -123,7 +123,7 @@ const EVENTS = [
   },
   {
     id: createEventId(),
-    title: 'Speaker: Gary Brown (Intel)',
+    title: 'TBD',
     start: dayStr + 'T11:00:00',
     end: dayStr + 'T12:00:00',
     color: '#caffa1',
@@ -132,7 +132,7 @@ const EVENTS = [
   },
   {
     id: createEventId(),
-    title: 'Speaker: Eby Ramakrishnan (Facebook)',
+    title: 'TBD',
     start: dayStr + 'T12:00:00',
     end: dayStr + 'T12:15:00',
     color: '#caffa1',
@@ -141,7 +141,7 @@ const EVENTS = [
   },
   {
     id: createEventId(),
-    title: 'Brainstorming Workshop',
+    title: 'TBD',
     start: dayStr + 'T08:45:00',
     end: dayStr + 'T09:15:00',
     color: '#a1ffeb',
@@ -150,7 +150,7 @@ const EVENTS = [
   },
   {
     id: createEventId(),
-    title: 'IOS Development Workshop',
+    title: 'TBD',
     start: dayStr + 'T09:15:00',
     end: dayStr + 'T10:15:00',
     color: '#a1ffeb',
@@ -159,7 +159,7 @@ const EVENTS = [
   },
   {
     id: createEventId(),
-    title: 'Web Development Workshop',
+    title: 'TBD',
     start: dayStr + 'T09:15:00',
     end: dayStr + 'T10:15:00',
     color: '#a1ffeb',
@@ -168,7 +168,7 @@ const EVENTS = [
   },
   {
     id: createEventId(),
-    title: 'AI Workshop',
+    title: 'TBD',
     start: dayStr + 'T09:15:00',
     end: dayStr + 'T09:45:00',
     color: '#a1ffeb',
@@ -177,7 +177,7 @@ const EVENTS = [
   },
   {
     id: createEventId(),
-    title: 'Vertias AI Workshop',
+    title: 'TBD',
     start: dayStr + 'T10:30:00',
     end: dayStr + 'T11:00:00',
     color: '#a1ffeb',
@@ -186,7 +186,7 @@ const EVENTS = [
   },
   {
     id: createEventId(),
-    title: 'Four Square',
+    title: 'TBD',
     start: dayStr + 'T10:15:00',
     end: dayStr + 'T11:00:00',
     color: '#ffada1',
@@ -195,7 +195,7 @@ const EVENTS = [
   },
   {
     id: createEventId(),
-    title: 'Escape Room',
+    title: 'TBD',
     start: dayStr + 'T13:30:00',
     end: dayStr + 'T15:30:00',
     color: '#ffada1',
@@ -204,7 +204,7 @@ const EVENTS = [
   },
   {
     id: createEventId(),
-    title: 'Dodgeball',
+    title: 'TBD',
     start: dayStr + 'T15:30:00',
     end: dayStr + 'T17:00:00',
     color: '#ffada1',
@@ -213,7 +213,7 @@ const EVENTS = [
   },
   {
     id: createEventId(),
-    title: 'Jeopardy',
+    title: 'TBD',
     start: dayStr + 'T20:30:00',
     end: dayStr + 'T21:15:00',
     color: '#ffada1',
