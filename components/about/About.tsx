@@ -8,7 +8,7 @@ interface IDate {
   seconds: string
 }
 
-export const lancerhacksDate = new Date(2023, 2, 11)
+export const lancerhacksDate = new Date(2023, 1, 11)
 
 export function About() {
   const [time, setTime] = useState<IDate>({days: "100", hours: "10", minutes: "05", seconds: "03"})
@@ -46,7 +46,7 @@ export function About() {
         <div>
           <h1 className={styles.header}>What is LancerHacks?</h1>
           <p className={styles.about}>
-          <b>LancerHacks</b> V is the fifth annual twelve-hour hackathon organized by sfhacks, the student-led programming club at Saint Francis High School. In partnership with the school, LancerHacks will take place in person on <b>Saturday, March 5, 2022</b>, and will host approximately 200 students from local high schools.<br /><br />
+          <b>LancerHacks</b> VI is the sixth annual twelve-hour hackathon organized by sfhacks, the student-led programming club at Saint Francis High School. In partnership with the school, LancerHacks will take place in person on <b>Saturday, February 11, 2023</b>, and will host approximately 200 students from local high schools.<br /><br />
     
           Drawing from the strength of our school’s mission to “educate hearts and minds to serve the world,” the theme of LancerHacks V is <b>“Doodle The Future.”</b> We encourage attendees to draw inspiration from the primary nature of scientific and technological development. Feel free to interpret the prompt however you want — get creative!<br /><br />
             
