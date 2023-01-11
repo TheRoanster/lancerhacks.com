@@ -3,8 +3,14 @@ import styles from './Sponsors.module.css'
 export function Sponsors() {
   
   let sponsors = [
-    ['wolfram', 'https://www.wolfram.com']
-  ]
+    ['wolfram', 'https://www.wolfram.com'],
+    ['balsamiq','https://balsamiq.com/wireframes/'],
+    ['slingshot', 'https://slingshotahead.com/'],
+    ['jetbrains', 'jb.gg/studentlicense'],
+    ['pizzafund', 'https://organize.mlh.io/host/pizza-fund-event'],
+    ['radix', 'https://radix.website/'],
+    ['github', 'https://github.com/']
+]
 
   return (
     <section className={styles.container} id="sponsors">

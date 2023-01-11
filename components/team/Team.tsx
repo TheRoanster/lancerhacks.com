@@ -3,13 +3,17 @@ import styles from './Team.module.css'
 export function Team() {
 
   let team_members = [
-    ["ruhi", "Ruhi Yusuf", "Ruhi is a sophmore at Saint Francis. She's interested in computer science, robotics, and music.", "https://github.com/ruhiyusuf"],
-    ["lino", "Lino Le Van", "Lino is a senior at Saint Francis. He loves programming and wants to share his passion with the world through hackathons like these.", "https://linolevan.com"],
-    ["nitish", "Nitish Gourishetty", "Nitish Gourishetty is a junior at Saint Francis High School. Currently he loves immersing himself into the world of technology. In his free time he loves doing things like robotics and building cool machines, as well as other things things like reading, playing the guitar. Nitish hopes to spread his passion of technology.", "https://github.com/NitishGourishetty"],
-    ["medha", "Medha Mahanta", "Medha is a sophmore at Saint Francis. She participates in programming club, math team, table tennis.", "https://github.com/MedhaMahanta"],
-    ["nina", "Nina Le Van", "Nina is a freshman at Saint Francis. She partipates in 3D Printing club, 1001 stories, and color guard."],
-    ["pranav", "Pranav Amarnath", "Pranav is a junior at Saint Francis. He likes programming, CADing, and robotics.", "https://github.com/PranavAmarnath"],
-    ["swastik", "Swastik Purathepparambil", "Swastik is a sophmore at Saint Francis. He is very passionate about marketing and plays basketball.", "https://github.com/SwastikPurathepparambil"],
+    ["ruhi", "Ruhi Yusuf", "Ruhi is a junior at Saint Francis. She's interested in computer science, robotics, and music.", "https://github.com/ruhiyusuf"],
+      ["nitish", "Nitish Gourishetty", "Nitish Gourishetty is a senior at Saint Francis High School. He loves immersing himself into the world of technology through clubs like Robotics and Arduino", "https://github.com/NitishGourishetty"],
+    ["nina", "Nina Le Van", "Nina is a sophomore at Saint Francis. She partipates in 3D Printing club, 1001 stories, and color guard."],
+    ["pranav", "Pranav Amarnath", "Pranav is a senior at Saint Francis. He likes programming, CADing, and robotics.", "https://github.com/PranavAmarnath"],
+    ["katherine", "Katherine Winton", "Katherine is a sophomore at Saint Francis High School. She likes programming, reading, art, and music. She participates in the tech clubs, newspaper, and campus ministry."],
+    ["rafaella", "Raffaella Laguteta", " Raffaella is a freshman at Saint Francis. She enjoys listening to music and reading good books in her free time"],
+    ["", "Aarush Kachhawa", "Aarush is a senior at Saint Francis. He enjoys robotics and new technology"],
+    ["", "Rohan Sinha", "Rohan is a senior at Saint Francis. He enjoys a mix of science and technology"],
+    ["devansh", "Devansh Malik", "Devansh is a sophomore at Saint Francis. He loves programming"],
+    ["smriti", "Smriti Vijay", "Smriti is a sophomore at Saint Francis. She enjoys coding and Speech and Debate"],
+      ["lino", "Lino Le Van", "Lino is an alumni of Saint Francis. He loves programming and wants to share his passion with the world through hackathons like these.", "https://linolevan.com"],
   ]
   
   return (

@@ -8,7 +8,7 @@ interface IDate {
   seconds: string
 }
 
-export const lancerhacksDate = new Date(2023, 1, 11)
+export const lancerhacksDate = new Date(2023, 1, 11) //zero index month watch out
 
 export function About() {
   const [time, setTime] = useState<IDate>({days: "100", hours: "10", minutes: "05", seconds: "03"})
@@ -46,9 +46,9 @@ export function About() {
         <div>
           <h1 className={styles.header}>What is LancerHacks?</h1>
           <p className={styles.about}>
-          <b>LancerHacks</b> VI is the sixth annual twelve-hour hackathon organized by sfhacks, the student-led programming club at Saint Francis High School. In partnership with the school, LancerHacks will take place in person on <b>Saturday, February 11, 2023</b>, and will host approximately 200 students from local high schools.<br /><br />
-    
-          Drawing from the strength of our school’s mission to “educate hearts and minds to serve the world,” the theme of LancerHacks V is <b>“Doodle The Future.”</b> We encourage attendees to draw inspiration from the primary nature of scientific and technological development. Feel free to interpret the prompt however you want — get creative!<br /><br />
+          <b>LancerHacks</b> VI is the sixth annual twelve-hour hackathon organized by sfhacks, the student-led programming club at Saint Francis High School. In partnership with the school, LancerHacks will take place in person on <b>Saturday, February 11, 2023</b>, and will host approximately 150 students from local high schools.<br /><br />
+
+            Each year we pick a carefully thought out theme. Last year, we created "Doodle the Future," and encouraged our participants to dream and create possibilities beyond our current solutions. We are super excited for this year's surprise theme, and can't wait to reveal it to our participants at LancerHacks. <br /><br />
             
           Supplementing the main project-development element of the hackathon through a variety of challenges and events, LancerHacks will continue to emphasize collaboration among attendees, mentorship by peers and industry experts, attendance at speaker sessions and workshops, and expanding the traditional understanding of computer science and its various daily-life applications.<br /><br />
             
