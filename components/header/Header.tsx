@@ -29,6 +29,7 @@ export function Header() {
         <ScrollTo href="home">Home</ScrollTo>
         <ScrollTo href="about">About</ScrollTo>
         <ScrollTo href="schedule">Schedule</ScrollTo>
+          <ScrollTo href="speakers">Speakers</ScrollTo>
         <ScrollTo href="faq">FAQ</ScrollTo>
         <ScrollTo href="sponsors">Sponsors</ScrollTo>
       </div>

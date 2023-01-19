@@ -8,6 +8,7 @@ import { Header } from '../components/header/Header'
 import { Home as Logo } from '../components/home/Home'
 import { About } from '../components/about/About'
 import { Schedule } from '../components/schedule/Schedule'
+import {Speakers} from "../components/speakers/Speakers";
 import { Footer } from '../components/footer/Footer'
 import { FAQ } from '../components/faq/FAQ'
 import { Sponsors } from '../components/sponsors/Sponsors'
@@ -52,6 +53,7 @@ const Home: NextPage = () => {
         <About />
         <Schedule />
         <Transition backgroundColor="rgb(250, 250, 250)" color="rgb(235, 235, 235)" flipped={true}/>
+        <Speakers/>
         <FAQ />
         <Tagline background="/backgrounds/sobrato1.jpg" tagline="/img/doodle.png"/>
         <Sponsors />
