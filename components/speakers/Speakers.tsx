@@ -7,9 +7,8 @@ export function Speakers() {
         ["Roshni", "Roshni Venkatesan Suresh", "Roshni Venkatesan Suresh is a current Hardware Rotation Program Engineer at Intel Corporation. She was also a Physical Design Engineer intern with the same team. Ms. Suresh completed her master’s in Computer Engineering at ASU and was a Graduate Researcher for one of the projects funded by NASA and ISRO. Her main interest lies in designing chips and looking out for timing violations. In the future, she would like to lead a team in one of the business units at Intel, and potentially dream to start her executive MBA at Stanford/MIT/Harvard!\n"],
         //["Lonna Edwards", "Lonna Edwards"],
         //["Arelys", "Arelys Navarro"]
-        ["placeholder", "Lonna Edwards", "Intel Panelist"],
-        ["placeholder", "Arelys Navarro", "Intel Panelist"]
-
+        ["Lonna", "Lonna Edwards", "Dr. Lonna Edwards is an Application Engineer at Intel. She graduated from the University of Illinois with a PhD in Electrical and Computer Engineering. Ms. Edwards has been honored on her outreach efforts to help introduce STEM to underrepresented students."],
+        ["Arelys", "Arelys Navarro", "Arelys is an engineer under the Intel PSG Hardware Rotation Program. She earned her bachelor’s and master’s degrees in Electrical Engineering at UC Irvine and UC Los Angeles respectively. At Intel, she has rotated within three different teams under the hardware umbrella including physical design, reliability, and architecture. In addition to her technical work, Arelys participates in recruiting events at universities and outreach events in the community. As a young professional, Arelys is always looking for opportunities to grow within her field and develop her technical skills. In the future, she would like to focus on a role in architecture design while continuing to support students and under-represented minorities in STEM."]
     ]
 
     return (

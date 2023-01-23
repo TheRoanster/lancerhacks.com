@@ -17,7 +17,7 @@ export function Home() {
         <div className={styles.inner_container} style={{opacity:1-(scroll/height), display: scroll>height?'none':'flex'}}>
           <img src="/logo_white.png" alt="lancerhacks logo" height={400} width={400} className={styles.logo}/>
           <h1 className={styles.name}>LancerHacks VI</h1>
-          <a className={styles.sign_up} href="https://organize.mlh.io/participants/events/9147-lancerhacks-vi-in-bay-area">Sign Up</a>
+          <a className={styles.sign_up} href="https://docs.google.com/forms/d/e/1FAIpQLSdKrM7EuFJhvzfbxZUP48hevJ6VJ9_9-JARSqB5KoZelvx2EQ/viewform">Sign Up</a>
         </div>
       </div>
     </section>

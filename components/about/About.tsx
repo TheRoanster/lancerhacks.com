@@ -46,13 +46,13 @@ export function About() {
         <div>
           <h1 className={styles.header}>What is LancerHacks?</h1>
           <p className={styles.about}>
-          <b>LancerHacks</b> VI is the sixth annual twelve-hour hackathon organized by sfhacks, the student-led programming club at Saint Francis High School. In partnership with the school, LancerHacks will take place in person on <b>Saturday, February 11, 2023</b>, and will host approximately 150 students from local high schools.<br /><br />
+          <b>LancerHacks</b> VI is the sixth annual twelve-hour hackathon organized by SFHacks, the student-led programming club at Saint Francis High School. In partnership with the school, LancerHacks will take place in person on Saturday, February 11, 2023, and will host approximately 150 students from local high schools.<br /><br />
 
-            Each year we pick a carefully thought out theme. Last year, we created "Doodle the Future," and encouraged our participants to dream and create possibilities beyond our current solutions. We are super excited for this year's surprise theme, and can't wait to reveal it to our participants at LancerHacks!<br /><br />
-            
-          Supplementing the main project-development element of the hackathon through a variety of challenges and events, LancerHacks will continue to emphasize collaboration among attendees, mentorship by peers and industry experts, attendance at speaker sessions and workshops, and expanding the traditional understanding of computer science and its various daily-life applications.<br /><br />
-            
-          We encourage interested students with <b>all levels of expertise</b> to attend the event to experience how the power of computer science can be leveraged in numerous fields and how this potential is enhanced when one applies a creative and personal touch. The underlying message of LancerHacks is that computer science is for everyone: it is not just for one type of person; it requires a variety of perspectives, an ability to think outside of the box, and a level of social awareness to identify communities that have the potential to improve in the field of computer science.
+            Each year we pick a carefully thought out theme. This year the theme for LancerHacks VI is “Upside Down.” We encourage attendees to think outside the box and reimagine the future by taking a disruptive leap instead of the same old thing. Feel free to interpret the prompt however you want -- get creative!<br /><br />
+
+            Supplementing the main project-development element of the hackathon through a variety of challenges and events, LancerHacks will continue to emphasize collaboration among attendees, mentorship by peers and industry experts, attendance at speaker sessions and workshops, and expanding the traditional understanding of computer science and its various daily-life applications.<br /><br />
+
+            We encourage interested students with all levels of expertise to attend the event to experience how the power of computer science can be leveraged in numerous fields and how this potential is enhanced when one applies a creative and personal touch. The underlying message of LancerHacks is that computer science is for everyone: it is not just for one type of person; it requires a variety of perspectives, an ability to think outside of the box, and a level of social awareness to identify communities that have the potential to improve in the field of computer science.
           </p>
         </div>
         <div>
