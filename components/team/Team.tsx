@@ -7,7 +7,7 @@ export function Team() {
         ["nitish2", "Nitish Gourishetty", "Nitish Gourishetty is a senior at Saint Francis High School. He loves immersing himself into the world of technology through clubs like Robotics and Arduino.", "https://github.com/NitishGourishetty"],
         ["Nina", "Nina Le Van", "Nina is a sophomore at Saint Francis. She enjoys art, 3D printing, and math. In her free time, she likes to read, paint, and play video games with her friends.\n"],
         ["pranav", "Pranav Amarnath", "Pranav is a senior at Saint Francis. He likes programming, CADing, and robotics.", "https://github.com/PranavAmarnath"],
-        ["katherine", "Katherine Winton", "Katherine is a sophomore at Saint Francis High School. She likes programming, reading, art, and music. She participates in the tech clubs, newspaper, and campus ministry."],
+        ["Katherine", "Katherine Winton", "Katherine is a sophomore at Saint Francis High School. She likes programming, reading, art, and music. She participates in the tech clubs, newspaper, and campus ministry."],
         ["raffaella", "Raffaella Laguteta", " Raffaella is a freshman at Saint Francis. She enjoys listening to music and reading good books in her free time"],
         ["aarush", "Aarush Kachhawa", "Aarush is a senior at Saint Francis. In addition to LancerHacks, he is involved with the robotics team and the jazz band in school. In his free time he loves to hang out with his friends, play basketball, listen to music and spend time with his family."],
         ["rohan", "Rohan Sinha", "Rohan is a senior at Saint Francis. In addition to tinkering with the world of computer science, he enjoys graphic design, biology research, and a good pun."],

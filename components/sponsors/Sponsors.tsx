@@ -10,7 +10,8 @@ export function Sponsors() {
     ['pizzafund', 'https://organize.mlh.io/host/pizza-fund-event'],
     ['radix', 'https://radix.website/'],
     ['github', 'https://github.com/'],
-    ['cookiedb', 'https://cookiedb.com/']
+    ['cookiedb', 'https://cookiedb.com/'],
+    ['digitalocean', 'https://www.digitalocean.com/']
 ]
 
   return (
