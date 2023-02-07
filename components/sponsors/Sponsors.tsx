@@ -11,7 +11,9 @@ export function Sponsors() {
     ['radix', 'https://radix.website/'],
     ['github', 'https://github.com/'],
     ['cookiedb', 'https://cookiedb.com/'],
-    ['digitalocean', 'https://www.digitalocean.com/']
+    ['digitalocean', 'https://www.digitalocean.com/'],
+    ['sticker_giant', 'https://www.stickergiant.com/'],
+    ['collegiate-consulting', 'https://www.collegiate-consulting.com/']
 ]
 
   return (
