@@ -11,7 +11,7 @@ export function Footer() {
         <a className={styles.email} href="mailto:hello@lancerhacks.com"/>
         <a className={styles.twitter} href="https://www.twitter.com/SFHSLancerHacks"/>
       </div>
-      <p className={styles.copyright}>© 2023 sfhacks. All Rights Reserved.</p>
+      <p className={styles.copyright}>© 2024 sfhacks. All Rights Reserved.</p>
     </section>
   )
 }

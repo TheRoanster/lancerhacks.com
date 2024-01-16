@@ -12,11 +12,11 @@ export function FAQ() {
         </div>
         <div className={styles.question_right}>
           <h3 className={styles.question_header}>Do I need any prior experience in computer science?</h3>
-          <p className={styles.answer}>Nope! Hackathons are a great place to learn and gain experience; we have plenty of workshops and mentors.</p>
+          <p className={styles.answer}>No prior experience is needed!</p>
         </div>
         <div className={styles.question}>
-          <h3 className={styles.question_header}>Who can attend?</h3>
-          <p className={styles.answer}>Anyone currently in high school or 8th grade.</p>
+          <h3 className={styles.question_header}>Who can attend? Is it free?</h3>
+          <p className={styles.answer}>Anyone currently in high school or 8th grade. Yes! Admission, swag, workshops -- everything is free.</p>
         </div>
         <div className={styles.question_right}>
           <h3 className={styles.question_header}>Will there be prizes?</h3>
@@ -27,16 +27,12 @@ export function FAQ() {
           <p className={styles.answer}>No, but we strongly encourage collaboration, so if you don’t have a team, let us know on the RSVP form and we’ll help you find one.</p>
         </div>
         <div className={styles.question}>
-          <h3 className={styles.question_header}>When/where is it?</h3>
-          <p className={styles.answer}>LancerHacks is taking place on Saturday, February 11, 2023, 7:30 am - 10:00 pm at the Saint Francis Campus. Please check the schedule for more information. All registrants will be sent an email with more information.</p>
-        </div>
-        <div className={styles.question}>
-          <h3 className={styles.question_header}>Is it free?</h3>
-          <p className={styles.answer}>Yes! Admission, swag, workshops -- everything is free.</p>
-        </div>
-        <div className={styles.question}>
           <h3 className={styles.question_header}>How big are the teams?</h3>
           <p className={styles.answer}>Up to four people.</p>
+        </div>
+        <div className={styles.question}>
+          <h3 className={styles.question_header}>What should I bring?</h3>
+          <p className={styles.answer}>A laptop, a charger, and yourself!</p>
         </div>
         <div className={styles.question_right}>
           <h3 className={styles.question_header}>Do I have to stay for the whole event?</h3>
@@ -45,6 +41,10 @@ export function FAQ() {
         <div className={styles.question_right}>
           <h3 className={styles.question_header}>More questions?</h3>
           <p className={styles.answer}>Email us at <a href="mailto:hello@lancerhacks.com">hello@lancerhacks.com</a> with any questions you have.</p>
+        </div>
+        <div className={styles.question_right}>
+          <h3 className={styles.question_header}>What should I do if I have any dietary restrictions?</h3>
+          <p className={styles.answer}>A form will be sent out to all registrants regarding information about food and catering, just make sure to list any dietary restrictions there! We will provide a vegan option for all meals. </p>
         </div>
       </div>
     </section>

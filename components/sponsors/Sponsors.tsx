@@ -4,16 +4,6 @@ export function Sponsors() {
   
   let sponsors = [
     ['wolfram', 'https://www.wolfram.com'],
-    ['balsamiq','https://balsamiq.com/wireframes/'],
-    ['slingshot2', 'https://slingshotahead.com/'],
-    ['jetbrains', 'jb.gg/studentlicense'],
-    ['pizzafund', 'https://organize.mlh.io/host/pizza-fund-event'],
-    ['radix', 'https://radix.website/'],
-    ['github', 'https://github.com/'],
-    ['cookiedb', 'https://cookiedb.com/'],
-    ['digitalocean', 'https://www.digitalocean.com/'],
-    ['sticker_giant', 'https://www.stickergiant.com/'],
-    ['collegiate-consulting', 'https://www.collegiate-consulting.com/']
 ]
 
   return (

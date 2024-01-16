@@ -8,7 +8,7 @@ interface IDate {
   seconds: string
 }
 
-export const lancerhacksDate = new Date(2023, 1, 11) //zero index month watch out
+export const lancerhacksDate = new Date(2024, 2, 9) //zero index month watch out
 
 export function About() {
   const [time, setTime] = useState<IDate>({days: "100", hours: "10", minutes: "05", seconds: "03"})
@@ -46,13 +46,12 @@ export function About() {
         <div>
           <h1 className={styles.header}>What is LancerHacks?</h1>
           <p className={styles.about}>
-          <b>LancerHacks</b> VI is the sixth annual twelve-hour hackathon organized by SFHacks, the student-led programming club at Saint Francis High School. In partnership with the school, LancerHacks will take place in person on Saturday, February 11, 2023, and will host approximately 150 students from local high schools.<br /><br />
+          <b>LancerHacks</b> VII is the seventh annual twelve-hour hackathon organized by the students at Saint Francis High School. This year, LancerHacks will take place in person from 8 AM to 10 PM on Saturday March 9, 2023, hosting approximately 150 students.
+<br /><br />
 
-            Each year we pick a carefully thought out theme. This year the theme for LancerHacks VI is “Upside Down.” We encourage attendees to think outside the box and reimagine the future by taking a disruptive leap instead of the same old thing. Feel free to interpret the prompt however you want -- get creative!<br /><br />
+By implementing a variety of engaging challenges and activities to supplement the project-developing component of hackathons, LancerHacks emphasizes collaboration among attendees, mentorship through peers and industry experts, and attendance of speaker events—all while expanding on the traditional understanding and various everyday applications of computer science, providing a unique learning experience for all participants.<br /><br />
 
-            Supplementing the main project-development element of the hackathon through a variety of challenges and events, LancerHacks will continue to emphasize collaboration among attendees, mentorship by peers and industry experts, attendance at speaker sessions and workshops, and expanding the traditional understanding of computer science and its various daily-life applications.<br /><br />
-
-            We encourage interested students with all levels of expertise to attend the event to experience how the power of computer science can be leveraged in numerous fields and how this potential is enhanced when one applies a creative and personal touch. The underlying message of LancerHacks is that computer science is for everyone: it is not just for one type of person; it requires a variety of perspectives, an ability to think outside of the box, and a level of social awareness to identify communities that have the potential to improve in the field of computer science.
+We encourage students of all experience levels to attend the event to perceive the impact and potential of computer science when applied with a creative and personal touch. LancerHacks believes that computer science is for everyone, as it requires a variety of perspectives, the ability to think outside of the box, and social awareness to identify opportunities for improving communities through the assistance of computer science. 
           </p>
         </div>
         <div>

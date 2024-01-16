@@ -16,7 +16,7 @@ export function Home() {
       <div className={styles.background}>
         <div className={styles.inner_container} style={{opacity:1-(scroll/height), display: scroll>height?'none':'flex'}}>
           <img src="/logo_white.png" alt="lancerhacks logo" height={400} width={400} className={styles.logo}/>
-          <h1 className={styles.name}>LancerHacks VI</h1>
+          <h1 className={styles.name}>LancerHacks VII</h1>
           <a className={styles.sign_up} href="https://docs.google.com/forms/d/e/1FAIpQLSdKrM7EuFJhvzfbxZUP48hevJ6VJ9_9-JARSqB5KoZelvx2EQ/viewform">Sign Up</a>
         </div>
       </div>

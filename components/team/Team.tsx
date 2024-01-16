@@ -3,18 +3,23 @@ import styles from './Team.module.css'
 export function Team() {
 
     let team_members = [
-        ["Ruhi", "Ruhi Yusuf", "Ruhi is a junior at Saint Francis. She's interested in computer science, robotics, and music.", "https://github.com/ruhiyusuf"],
-        ["nitish2", "Nitish Gourishetty", "Nitish Gourishetty is a senior at Saint Francis High School. He loves immersing himself into the world of technology through clubs like Robotics and Arduino.", "https://github.com/NitishGourishetty"],
-        ["Nina", "Nina Le Van", "Nina is a sophomore at Saint Francis. She enjoys art, 3D printing, and math. In her free time, she likes to read, paint, and play video games with her friends.\n"],
-        ["pranav", "Pranav Amarnath", "Pranav is a senior at Saint Francis. He likes programming, CADing, and robotics.", "https://github.com/PranavAmarnath"],
-        ["Katherine", "Katherine Winton", "Katherine is a sophomore at Saint Francis High School. She likes programming, reading, art, and music. She participates in the tech clubs, newspaper, and campus ministry."],
-        ["raffaella", "Raffaella Laguteta", " Raffaella is a freshman at Saint Francis. She enjoys listening to music and reading good books in her free time"],
-        ["aarush", "Aarush Kachhawa", "Aarush is a senior at Saint Francis. In addition to LancerHacks, he is involved with the robotics team and the jazz band in school. In his free time he loves to hang out with his friends, play basketball, listen to music and spend time with his family."],
-        ["rohan", "Rohan Sinha", "Rohan is a senior at Saint Francis. In addition to tinkering with the world of computer science, he enjoys graphic design, biology research, and a good pun."],
-        ["Devansh", "Devansh Malik", "Devansh is a sophomore at Saint Francis. He enjoys programming and medical research. Apart from clubs and extracurriculars, Devansh enjoys watching comedy TV shows on the weekends."],
-        ["Smriti", "Smriti Vijay", "Smriti is a sophomore at Saint Francis. She participates in IFSA, debate, newspaper, and the tech clubs. She likes reading, writing, and listening to music."],
-        ["lino", "Lino Le Van", "Lino is an alumni of Saint Francis. He loves programming and wants to share his passion with the world through hackathons like these.", "https://linolevan.com"],
+        ["Ruhi", "Ruhi Yusuf", "Ruhi is a senior at Saint Francis. She enjoys working in robotics, playing music, and...", "https://github.com/ruhiyusuf"],
+        ["Rohan", "Rohan Mittal", "Rohan is a junior at Saint Francis. He enjoys programming, working out, and robotics.", "https://github.com/TheRoanster"],
+        ["Nina", "Nina Le Van", "Nina is a junior at Saint Francis. She enjoys art, 3D printing, and going to the gym. In her free time, she likes to read, paint, and go hiking with her friends.\n"],
+        ["Tim", "Tim Le Van", "Tim is a freshman at Saint Francis. He is involved in 3D printing,  coding, and soccer. He likes to play video games, read, and go hiking/biking."],
+        ["Katherine", "Katherine Winton", "Katherine is a junior at Saint Francis. Within school, she is involved in tech clubs, campus ministry, and newspaper. Outside of school, she likes to read, do art, play with her dog, and watch Marvel movies."],
+        ["Lily", "Lily Ozaeta", "Lily is a junior at Saint Francis. She enjoys 3D printing, reading, and baking. In her free time, she loves to travel around the Bay Area and drink coffee at cafes."],
+        ["Ashmit", "Ashmit Kachhawa", "Ashmit is a sophomore at Saint Francis. In his free time, he enjoys smelling lizards, eating shoes, and being Aarush's little brother. "],
+        ["Yanik", "Yanik Dabke", "Yanik is a senior at Saint Francis. At Saint Francis, he is involved in debate, track & field, and programming. In his free time he enjoys developing games, dancing, and playing Minecraft."],
+        ["Devansh", "Devansh Malik", "Devansh is a junior at Saint Francis. He enjoys drawing, spending time with family, and watching comedy movies. Additionally, Devansh likes to travel and explore new places!"],
+        ["Smriti", "Smriti Vijay", "Smriti is a junior at Saint Francis. She participates in IFSA, debate, newspaper, and the tech clubs. She likes reading, writing, and listening to music."],
+        ["Salma", "Salma Afifiy", "Salma is a junior at Saint Francis. She enjoys art, 3D printing, and puzzles. In her free time, she likes to hang out with her friends and naps. "],
+        ["Caroline", "Caroline Luu", "Caroline is a sophomore at Saint Francis. She is involved in VSA, robotics, and crochet club. In her free time, she enjoys listening to music, journaling, and watching movies. "],
+        ["Eshaan", "Eshaan Andotra", " Eshaan is a senior at Saint Francis. At Saint Francis, He is involved in motorsport engineering, gaming club, BRIC bros, and FASU. In his free time he enjoys going out with friends, crew (rowing), traveling, learning new languages, and playing video games."],
+        ["Akshara", "Akshara Panchumarthi", "Akshara is a sophomore at Saint Francis. She is involved in robotics and newspaper. In her free time, she enjoys bullet journaling, trying new foods, and going on walks."],
+        ["Reshaan", "Reshaan Tolani", "Reshaan Tolani is a high school senior with a keen interest in technology and entrepreneurship. Aspiring to make a mark in the digital landscape, Reshaan combines academic excellence with a passion for innovation, showcasing a promising future in the tech industry."]
     ]
+
 
     return (
         <section className={styles.container}>
