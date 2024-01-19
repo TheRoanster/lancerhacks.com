@@ -37,8 +37,8 @@ const Home: NextPage = () => {
   return (
     <div className={styles.container}>
       <Head>
-        <title>LancerHacks VI</title>
-        <meta name="description" content="LancerHacks V is the fifth annual twelve-hour hackathon organized by sfhacks, the student-led programming club at Saint Francis High School." />
+        <title>LancerHacks VII</title>
+        <meta name="description" content="LancerHacks VII is the seventh annual twelve-hour hackathon organized by sfhacks, the student-led programming club at Saint Francis High School." />
         <link rel="icon" href="/favicon.ico" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
