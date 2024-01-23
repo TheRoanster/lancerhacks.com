@@ -3,13 +3,13 @@ import styles from './Team.module.css'
 export function Team() {
 
     let team_members = [
-        ["Ruhi", "Ruhi Yusuf", "Ruhi is a senior at Saint Francis. She enjoys working in robotics, playing music, and...", "https://github.com/ruhiyusuf"],
+        ["Ruhi", "Ruhi Yusuf", "Ruhi is a senior at Saint Francis. At Saint Francis, she's the president of Robotics and leads the programming club. In her free time, Ruhi enjoys listening to music, playing instruments, and collecting stickers.", "https://github.com/ruhiyusuf"],
         ["Rohan", "Rohan Mittal", "Rohan is a junior at Saint Francis. He enjoys programming, working out, and robotics.", "https://github.com/TheRoanster"],
         ["Nina", "Nina Le Van", "Nina is a junior at Saint Francis. She enjoys art, 3D printing, and going to the gym. In her free time, she likes to read, paint, and go hiking with her friends.\n"],
         ["Tim", "Tim Le Van", "Tim is a freshman at Saint Francis. He is involved in 3D printing,  coding, and soccer. He likes to play video games, read, and go hiking/biking."],
         ["Katherine", "Katherine Winton", "Katherine is a junior at Saint Francis. Within school, she is involved in tech clubs, campus ministry, and newspaper. Outside of school, she likes to read, do art, play with her dog, and watch Marvel movies."],
         ["Lily", "Lily Ozaeta", "Lily is a junior at Saint Francis. She enjoys 3D printing, reading, and baking. In her free time, she loves to travel around the Bay Area and drink coffee at cafes."],
-        ["Ashmit", "Ashmit Kachhawa", "Ashmit is a sophomore at Saint Francis. In his free time, he enjoys smelling lizards, eating shoes, and being Aarush's little brother. "],
+        ["Ashmit", "Ashmit Kachhawa", "Ashmit is a sophomore at Saint Francis. He is part of the robotics club and science Olympiad, and in his free time he likes to draw. "],
         ["Yanik", "Yanik Dabke", "Yanik is a senior at Saint Francis. At Saint Francis, he is involved in debate, track & field, and programming. In his free time he enjoys developing games, dancing, and playing Minecraft.", "https://www.linkedin.com/in/yanikdabke"],
         ["Devansh", "Devansh Malik", "Devansh is a junior at Saint Francis. He enjoys drawing, spending time with family, and watching comedy movies. Additionally, Devansh likes to travel and explore new places!"],
         ["Smriti", "Smriti Vijay", "Smriti is a junior at Saint Francis. She participates in IFSA, debate, newspaper, and the tech clubs. She likes reading, writing, and listening to music."],
