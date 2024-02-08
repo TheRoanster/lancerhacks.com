@@ -46,7 +46,7 @@ export function About() {
         <div>
           <h1 className={styles.header}>What is LancerHacks?</h1>
           <p className={styles.about}>
-          <b>LancerHacks</b> VII is the seventh annual twelve-hour hackathon organized by the students at Saint Francis High School. This year, LancerHacks will take place in person from 8 AM to 10 PM on Saturday March 9, 2023, hosting approximately 150 students.
+          <b>LancerHacks</b> VII is the seventh annual twelve-hour hackathon organized by the students at Saint Francis High School. This year, LancerHacks will take place in person from 8 AM to 10 PM on Saturday March 9, 2024, hosting approximately 150 students.
 <br /><br />
 
 By implementing a variety of engaging challenges and activities to supplement the project-developing component of hackathons, LancerHacks emphasizes collaboration among attendees, mentorship through peers and industry experts, and attendance of speaker events—all while expanding on the traditional understanding and various everyday applications of computer science, providing a unique learning experience for all participants.<br /><br />
@@ -73,7 +73,7 @@ We encourage students of all experience levels to attend the event to perceive t
               <p className={styles.timer_label}>Secs</p>
             </div>
             <h1 className={styles.before}>
-              Before Lancerhacks
+              Before LancerHacks
             </h1>
           </div>
           <div className={styles.map_container}>

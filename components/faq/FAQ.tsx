@@ -16,7 +16,7 @@ export function FAQ() {
         </div>
         <div className={styles.question}>
           <h3 className={styles.question_header}>Who can attend? Is it free?</h3>
-          <p className={styles.answer}>Anyone currently in high school or 8th grade. Yes! Admission, swag, workshops -- everything is free.</p>
+          <p className={styles.answer}>Anyone currently from grades 7-12. Yes! Admission, swag, workshops -- everything is free.</p>
         </div>
         <div className={styles.question_right}>
           <h3 className={styles.question_header}>Will there be prizes?</h3>
@@ -44,7 +44,7 @@ export function FAQ() {
         </div>
         <div className={styles.question_right}>
           <h3 className={styles.question_header}>What should I do if I have any dietary restrictions?</h3>
-          <p className={styles.answer}>A form will be sent out to all registrants regarding information about food and catering, just make sure to list any dietary restrictions there! We will provide a vegan option for all meals. </p>
+          <p className={styles.answer}>A form will be sent out to all registrants regarding information about food and catering, just make sure to list any dietary restrictions there! We will provide a vegan option for most meals. </p>
         </div>
       </div>
     </section>
