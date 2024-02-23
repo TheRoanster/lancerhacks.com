@@ -11,7 +11,6 @@ export function Team() {
         ["Lily", "Lily Ozaeta", "Lily is a junior at Saint Francis. She enjoys 3D printing, reading, and baking. In her free time, she loves to travel around the Bay Area and drink coffee at cafes."],
         ["Ashmit", "Ashmit Kachhawa", "Ashmit is a sophomore at Saint Francis. He is part of the robotics club and science Olympiad, and in his free time he likes to draw. "],
         ["Yanik", "Yanik Dabke", "Yanik is a senior at Saint Francis. At Saint Francis, he is involved in debate, track & field, and programming. In his free time he enjoys developing games, dancing, and playing Minecraft.", "https://www.linkedin.com/in/yanikdabke"],
-        ["Devansh", "Devansh Malik", "Devansh is a junior at Saint Francis. He enjoys drawing, spending time with family, and watching comedy movies. Additionally, Devansh likes to travel and explore new places!"],
         ["Smriti", "Smriti Vijay", "Smriti is a junior at Saint Francis. She participates in IFSA, debate, newspaper, and the tech clubs. She likes reading, writing, and listening to music."],
         ["Salma", "Salma Afifiy", "Salma is a junior at Saint Francis. She enjoys art, 3D printing, and puzzles. In her free time, she likes to hang out with her friends and naps. "],
         ["Caroline", "Caroline Luu", "Caroline is a sophomore at Saint Francis. She is involved in VSA, robotics, and crochet club. In her free time, she enjoys listening to music, journaling, and watching movies. "],
