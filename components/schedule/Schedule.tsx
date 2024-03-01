@@ -144,7 +144,7 @@ const EVENTS = [
     id: createEventId(),
     title: 'Judging',
     start: dayStr + 'T20:30:00',
-    end: dayStr + 'T22:00:00',
+    end: dayStr + 'T21:15:00',
     color: 'blue',
     textColor: 'black',
     borderColor: 'black',
@@ -170,8 +170,8 @@ const EVENTS = [
   {
     id: createEventId(),
     title: 'Award Ceremony',
-    start: dayStr + 'T22:15:00',
-    end: dayStr + 'T22:45:00',
+    start: dayStr + 'T21:15:00',
+    end: dayStr + 'T21:45:00',
     color: 'white',
     textColor: 'black',
     borderColor: 'black',
@@ -212,7 +212,7 @@ export function Schedule() {
             omitZeroMinute: false,
           }}
           slotMinTime="07:15:00"
-          slotMaxTime="22:45:00"
+          slotMaxTime="21:45:00"
           height={600}
           initialDate={dayStr}
           allDaySlot={false}
