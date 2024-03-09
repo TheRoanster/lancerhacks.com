@@ -1,0 +1,27 @@
+.container {
+  width: 100vw;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  background-color: white;
+
+  padding: 20px 20px;
+}
+
+.sponsor {
+  max-width: min(90vw, 500px);
+  max-height: 300px;
+}
+
+.header {
+  font-size: min(55px, 13vw);
+  color: var(--text-color);
+
+  margin-top: 0px;
+  padding-bottom: 20px;
+
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+}

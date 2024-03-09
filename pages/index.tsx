@@ -15,7 +15,7 @@ import { Sponsors } from '../components/sponsors/Sponsors'
 import { SFHS } from '../components/sfhs/SFHS'
 import { Team } from '../components/team/Team'
 import { Tagline } from '../components/tagline/Tagline'
-
+import { Theme } from '../components/theme/Theme'
 import { useAppSelector, useAppDispatch } from '../redux/hooks'
 import { setScroll } from '../redux/slices/pageSlice'
 import { Transition } from '../components/transition/Transition'
@@ -51,6 +51,7 @@ const Home: NextPage = () => {
         <Header />
         <Logo />
         <About />
+        <Theme />
         <Schedule />
         <Transition backgroundColor="rgb(250, 250, 250)" color="rgb(235, 235, 235)" flipped={true}/>
         <Speakers/>

@@ -15,15 +15,6 @@ let dayStr = lancerhacksDate.toISOString().replace(/T.*$/, '')
 const EVENTS = [
   {
     id: createEventId(),
-    title: 'Set up',
-    start: dayStr + 'T07:15:00',
-    end: dayStr + 'T07:30:00',
-    color: 'pink',
-    textColor: 'black',
-    borderColor: 'black',
-  },
-  {
-    id: createEventId(),
     title: 'Check In',
     start: dayStr + 'T07:45:00',
     end: dayStr + 'T08:00:00',
@@ -36,7 +27,7 @@ const EVENTS = [
     id: createEventId(),
     title: 'Opening Ceremony',
     start: dayStr + 'T08:00:00',
-    end: dayStr + 'T08:35:00',
+    end: dayStr + 'T08:30:00',
     color: 'red',
     textColor: 'black',
     borderColor: 'black',
@@ -64,7 +55,7 @@ const EVENTS = [
     title: 'Beginner\'s Workshop',
     start: dayStr + 'T09:00:00',
     end: dayStr + 'T09:30:00',
-    color: 'blue',
+    color: 'cyan',
     textColor: 'black',
     borderColor: 'black',
   },
@@ -109,7 +100,7 @@ const EVENTS = [
     title: 'Dodgeball',
     start: dayStr + 'T16:00:00',
     end: dayStr + 'T17:00:00',
-    color: 'blue',
+    color: 'cyan',
     textColor: 'black',
     borderColor: 'black',
   },
@@ -145,7 +136,7 @@ const EVENTS = [
     title: 'Judging',
     start: dayStr + 'T20:30:00',
     end: dayStr + 'T21:15:00',
-    color: 'blue',
+    color: 'cyan',
     textColor: 'black',
     borderColor: 'black',
   },
@@ -211,7 +202,7 @@ export function Schedule() {
             minute: '2-digit',
             omitZeroMinute: false,
           }}
-          slotMinTime="07:15:00"
+          slotMinTime="07:45:00"
           slotMaxTime="21:45:00"
           height={600}
           initialDate={dayStr}

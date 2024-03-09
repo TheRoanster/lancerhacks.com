@@ -57,13 +57,13 @@ We encourage students of all experience levels to attend the event to perceive t
         <div>
           <div>
             <div className={styles.timer}>
-              <p className={styles.timer_time}>{time.days}</p>
+              <p className={styles.timer_time}>0</p>
               <p className={styles.timer_time}>:</p>
-              <p className={styles.timer_time}>{time.hours}</p>
+              <p className={styles.timer_time}>0</p>
               <p className={styles.timer_time}>:</p>
-              <p className={styles.timer_time}>{time.minutes}</p>
+              <p className={styles.timer_time}>0</p>
               <p className={styles.timer_time}>:</p>
-              <p className={styles.timer_time}>{time.seconds}</p>
+              <p className={styles.timer_time}>0</p>
               <p className={styles.timer_label}>Days</p>
               <p className={styles.timer_label}></p>
               <p className={styles.timer_label}>Hours</p>

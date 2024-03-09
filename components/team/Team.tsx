@@ -17,10 +17,9 @@ export function Team() {
         ["Eshaan", "Eshaan Andotra", " Eshaan is a senior at Saint Francis. At Saint Francis, He is involved in motorsport engineering, gaming club, BRIC bros, and FASU. In his free time he enjoys going out with friends, crew (rowing), traveling, learning new languages, and playing video games."],
         ["Akshara", "Akshara Panchumarthi", "Akshara is a sophomore at Saint Francis. She is involved in robotics and newspaper. In her free time, she enjoys bullet journaling, trying new foods, and going on walks."],
         ["Reshaan", "Reshaan Tolani", "Reshaan Tolani is a high school senior with a keen interest in technology and entrepreneurship. Aspiring to make a mark in the digital landscape, Reshaan combines academic excellence with a passion for innovation, showcasing a promising future in the tech industry."],
+        ["Paola", "Paola Rangel", "Paola is a freshmen at Saint Francis. She plays volleyball and enjoys studying computer science."],
         ["Philip", "Philip Wang", "Philip Wang is a computer science teacher and volleyball coach at Saint Francis. He has been teaching for 19+ years and enjoys riding motorcycles in his free time.", "https://www.linkedin.com/in/philip-w-9b658b60?trk=people-guest_people_search-card"]
     ]
-
-
     return (
         <section className={styles.container}>
             <h1 className={styles.header}>The Team</h1>
